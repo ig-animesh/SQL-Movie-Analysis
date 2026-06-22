@@ -4,7 +4,7 @@
 
 This project focuses on analyzing a movie database using SQL.
 
-The dataset contains information about movies, genres, actors, users, and ratings.  
+The [dataset](./real_movie_dataset.sql) contains information about movies, genres, actors, users, and ratings.  
 The objective of this project is to solve real-world analysis questions using SQL queries and extract meaningful insights.
 
 
@@ -24,8 +24,16 @@ The database consists of the following tables:
 
 
 ---
+## 📂 Dataset Used
+
+- [Dataset](./real_movie_dataset.sql)
+
+
+---
 
 # 📊 SQL Analysis & Solutions
+
+- [All Query Solutions](./movieQueries.sql)
 
 
 ## 1. What are the top 5 highest-rated movies based on rating?
