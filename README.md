@@ -7,14 +7,6 @@ This project focuses on analyzing a movie database using SQL.
 The dataset contains information about movies, genres, actors, users, and ratings.  
 The objective of this project is to solve real-world analysis questions using SQL queries and extract meaningful insights.
 
----
-
-# 🛠️ Tech Stack
-
-- PostgreSQL
-- SQL
-- pgAdmin 4
-
 
 ---
 
@@ -267,6 +259,16 @@ Using SQL analysis, this project helped identify:
 - Connect database with a frontend application
 - Create Power BI/Tableau dashboard
 - Build an ML-based movie recommendation system
+
+
+
+---
+
+# 🛠️ Tech Stack
+
+- PostgreSQL
+- SQL
+- pgAdmin 4
 
 
 ---
